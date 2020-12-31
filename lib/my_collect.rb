@@ -4,6 +4,5 @@ def my_collect(array)
 when i < array.length
   array do |n|
     collect << n
-    end
   end
 end
