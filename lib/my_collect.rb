@@ -3,9 +3,7 @@ def my_collect(array)
   collection = []
 when i < array.length
   array do |n|
-    collect << n  
+    collect << n
     end
   end
 end
-    
-
