@@ -3,6 +3,8 @@ def my_collect(array)
   collection = []
 while i < array.length
   array do |n|
-    collect << n
+    collection << n
   end
+ end
+ collection
 end
